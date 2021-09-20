@@ -1,0 +1,197 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/admin/unity/rpg/Audio
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+51838
+Successfully changed project path to: /Users/admin/unity/rpg/Audio
+/Users/admin/unity/rpg/Audio
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/admin/unity/rpg/Audio/Assets
+GfxDevice: creating device client; threaded=0
+2021-09-19 16:34:19.372 Unity[24948:617849] iMac preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-09-19 16:34:19.372 Unity[24948:617849] Metal devices available: 1
+2021-09-19 16:34:19.372 Unity[24948:617849] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-09-19 16:34:19.378 Unity[24948:617849] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.001191 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 23.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.789 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.107708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.355 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.27 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1153 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.5 MB.
+System memory in use after: 121.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 1.864043 ms (FindLiveObjects: 0.152583 ms CreateObjectMapping: 0.039822 ms MarkObjects: 1.536921 ms  DeleteObjects: 0.133897 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/AudioMixer.mixer
+  artifactKey: Guid(510974707b3704d9fa25551b0dedc3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AudioMixer.mixer using Guid(510974707b3704d9fa25551b0dedc3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b277d4b4d4f6ddea0d111bccb5a4a38c') in 1.931963 seconds
+  Import took 1.992576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Plugins/GitHub
+  artifactKey: Guid(18e096a98c2704c40a818dd1214cd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub using Guid(18e096a98c2704c40a818dd1214cd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c6f830166e8efa550cd7540e1e380d') in 0.001485 seconds
+  Import took 0.003576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(720712be6e31c444f88f57bb85bf5fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(720712be6e31c444f88f57bb85bf5fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e0657f5f67bb2a6a6ef5f89c72c42e6') in 0.000994 seconds
+  Import took 0.027658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.331845 seconds.
+  path: Assets/Plugins/GitHub/Editor
+  artifactKey: Guid(cad92998c5182496e8b989b406d9f156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor using Guid(cad92998c5182496e8b989b406d9f156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b76539ee6b3734ea2c967b68c15ffd') in 0.001076 seconds
+  Import took 0.029786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087883 seconds.
+  path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+  artifactKey: Guid(f81094832d834c64d93b198cb16b6a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/big-logo@2x.png using Guid(f81094832d834c64d93b198cb16b6a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adcc90895ff65591bff4907a049684c') in 1.786790 seconds
+  Import took 1.879772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.666915 seconds.
+  path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+  artifactKey: Guid(d516f2a1bec6a9645a084ef8c9237132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll using Guid(d516f2a1bec6a9645a084ef8c9237132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1ed0c2b70dd2eb469493c9ef6caba0') in 1.128635 seconds
+  Import took 1.193833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+  artifactKey: Guid(c743ae24ee231884887054d20ccdd0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll using Guid(c743ae24ee231884887054d20ccdd0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7964a4ccb3edfd94729585c38ea22a22') in 0.004512 seconds
+  Import took 0.006414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.234638 seconds.
+  path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+  artifactKey: Guid(dae2ecee8a704dd59797e26554ff8606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/ExtensionLoader.cs using Guid(dae2ecee8a704dd59797e26554ff8606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc62a0ab6314ac6bba322960b0ed7fa5') in 1.128891 seconds
+  Import took 1.130784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 238.245107 seconds.
+  path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+  artifactKey: Guid(6e4df876417ac4c4f8862a5234b25615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb using Guid(6e4df876417ac4c4f8862a5234b25615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0d34d043b3cd19306f43f9b6f1b7f0') in 2.607938 seconds
+  Import took 2.752281 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 1.270180 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.485 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1135 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.2 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 1.969775 ms (FindLiveObjects: 0.207737 ms CreateObjectMapping: 0.042064 ms MarkObjects: 1.636916 ms  DeleteObjects: 0.082092 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.410776 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1135 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.5 MB.
+System memory in use after: 142.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1630.
+Total: 1.549863 ms (FindLiveObjects: 0.132574 ms CreateObjectMapping: 0.032423 ms MarkObjects: 1.325155 ms  DeleteObjects: 0.058788 ms)
+
